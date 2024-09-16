@@ -1,5 +1,6 @@
 {
-  "name": "youtube_clone",
+  "name": "youtube-clone",
+  "homepage": "https://github.com/lokeshvudigala/youtube_clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
