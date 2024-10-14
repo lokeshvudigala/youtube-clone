@@ -18,15 +18,16 @@ This is a YouTube clone application built with React and Material UI.Users can s
 
 3. **Video Player**: Click on any video to watch it using the React Player component.
 
-Screenshots
-Home Page
+**Screenshots**
+
+**Home Page**
 ![Home Page](./screenshots/homepage.png)
 
-Searched Vidoes
+**Searched Vidoes**
 ![Searched Videos Page](./screenshots/serach-results-page.png)
 
-Category Specific Videos Page
+**Category Specific Videos Page**
 ![Category Specific Videos Page](./screenshots/category-specific-videos.png)
 
-Video Detail Page
+**Video Detail Page**
 ![Video Detail Page](./screenshots/video-detail-page.png)
